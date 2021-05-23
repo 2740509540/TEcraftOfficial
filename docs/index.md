@@ -1,30 +1,31 @@
 ## Welcome TEcraft Official.
 
-You can use the [editor on GitHub](https://github.com/2740509540/TEcraftOfficial/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+TEcraft 为您带来一种全新的 Minecraft 游戏体验。
+TEcraft Bring you a brand new Minecraft game experience.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 授权声明 Authorization statement.
+该整合包花费大量精力，不喜勿喷！
+不求收入，不求赞美，只需不侮辱劳动成果.
+该整合包只会在MCBBS上持续更新，如果需要宣传，请私聊。
+如在其他网站1下载渠道，一律疯狂举报！！！
+This integration package takes a lot of energy, so don't spray if you don't like it! 
+Don't ask for income, praise, just don't insult the fruits of labor. 
+The integration package will only be continuously updated on MCBBS. 
+If you need publicity, please chat privately.
+If you download from other websites 1, you will report it crazily! ! !
 
-### Markdown
+### 配置需求 Configuration requirements.
+#### 最低配置：--------------
+CPU:AMD速龙 x4 640 2.8Ghz
+GPU:不限
+运行内存：DDR3 2GB
+硬盘: 2GB 以上
+#### 推荐配置：--------------
+CPU: intel i3 5代
+GPU:GT 630
+运行内存: DDR3 4GB
+硬盘空间: 4GB以上
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
